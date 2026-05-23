@@ -1,19 +1,15 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manas%20Shukla&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Builder%20%7C%20Data%20Scientist%20%7C%20Automation%20Engineer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manas%20Shukla&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Builder%20%7C%20Data%20Scientist%20%7C%20Automation%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=3rd+Year+B.Sc.+Data+Science+Student+%F0%9F%8E%93;AI+%26+Automation+Builder+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%A7%A0;Business+Intelligence+Developer+%F0%9F%93%8A;Building+AI+that+actually+works+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+AI+that+thinks+%F0%9F%A4%96;Automating+workflows+with+n8n+%26+GPT-4o+%E2%9A%A1;Turning+data+into+decisions+%F0%9F%93%8A;3rd+Year+B.Sc.+Data+Science+Student+%F0%9F%8E%93;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://manas-shukla-portfolio.framer.website)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6E40C9?style=for-the-badge&logoColor=white)](https://manas-shukla-portfolio.framer.website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-shukla-006774370)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklamanas89282@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manas_shukla_101)
-
-![Profile Views](https://komarev.com/ghpvc/?username=manas-shukla-101&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklamanas89282@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manas-shukla-101)
 
 </div>
 
@@ -24,16 +20,16 @@
 ```python
 class ManasShukla:
     def __init__(self):
-        self.name        = "Manas Shukla"
-        self.location    = "Mumbai, India 🇮🇳"
-        self.education   = "B.Sc. Data Science – 3rd Year (TSDC)"
-        self.focus       = ["AI Automation", "Machine Learning", "Business Intelligence"]
-        self.tools       = ["GPT-4o", "Gemini AI", "n8n", "LangFlow", "Streamlit"]
-        self.currently   = "Building AI agents that think, automate & deliver insights"
-        self.fun_fact    = "I automate the boring stuff so I can build more cool stuff 🤖"
+        self.name         = "Manas Shukla"
+        self.role         = "AI Builder & Data Science Student"
+        self.year         = "3rd Year B.Sc. Data Science"
+        self.college      = "Thakur Shayamnarayan Degree College, Mumbai"
+        self.focus        = ["AI Automation", "Machine Learning", "Business Intelligence"]
+        self.currently    = "Building AI agents that actually do things 🤖"
+        self.looking_for  = "Internships & Collaborations"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
+        print("Thanks for stopping by! Let's build something amazing together 🚀")
 
 me = ManasShukla()
 me.say_hi()
@@ -43,18 +39,92 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| 🏆 Project | 📌 Description | 🛠️ Stack |
-|:---|:---|:---|
-| 🤖 [**HireSight AI**](https://github.com/manas-shukla-101/HireSight-AI) | AI resume analyzer — NLP matching, skill gap detection & PDF reports | Flask · spaCy · Sentence Transformers · SQLite |
-| 🤖 [**AI Data Analyst Agent**](https://github.com/manas-shukla-101/AI-Data-Analyst-Agent) | Automated EDA platform — upload data, get AI insights & PDF reports | FastAPI · Gemini AI · n8n · Pandas · Matplotlib |
-| 🤖 [**SmartInbox AI**](https://github.com/manas-shukla-101/SmartInbox-AI) | Autonomous email agent — GPT-4o classification with human-in-the-loop approval | GPT-4o · LangFlow · n8n · Gmail API |
-| 📊 [**Customer Churn Prediction**](https://github.com/manas-shukla-101/Customer-Churn-Prediction-System) | XGBoost churn system with Streamlit dashboard & AI retention strategies | XGBoost · Streamlit · Scikit-Learn · Pandas |
-| 📈 [**E-Commerce BI Dashboard**](https://github.com/manas-shukla-101/powerbi-ecommerce-sales-dashboard) | 3-page Power BI dashboard — DAX time intelligence, star schema & KPIs | Power BI · PostgreSQL · DAX |
-| 🔮 [**CLV Prediction Model**](https://github.com/manas-shukla-101/Customer-Life-Time-Value-CLV-Prediction-Model) | Customer Lifetime Value using RFM analysis & Random Forest | Python · Random Forest · Scikit-Learn |
+### 🤖 [HireSight AI](https://github.com/manas-shukla-101/HireSight-AI)
+> AI-powered resume analyzer with NLP & semantic similarity
 
-</div>
+- 🔍 Resume ↔ JD matching engine
+- 🎯 Skill gap detection & recommendations  
+- 📄 Auto PDF report generation
+- 👥 Role-based access (Recruiter / Candidate)
+
+**Stack:** `Flask` `spaCy` `Sentence Transformers` `SQLite`
+
+</td>
+<td width="50%">
+
+### 🤖 [AI Data Analyst Agent](https://github.com/manas-shukla-101/AI-Data-Analyst-Agent)
+> Upload any dataset → Get full AI analysis instantly
+
+- ⚡ Automated EDA pipeline
+- 🤖 Gemini AI-powered insights
+- 📊 Auto visualizations & PDF reports
+- 🔄 n8n workflow automation
+
+**Stack:** `FastAPI` `Gemini AI` `n8n` `Pandas` `Matplotlib`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [SmartInbox AI](https://github.com/manas-shukla-101/SmartInbox-AI)
+> Autonomous Gmail agent with human-in-the-loop
+
+- 📧 AI classifies & routes emails
+- 💬 GPT-4o smart reply generation
+- ✅ Human approval before deletion
+- 🔒 OAuth 2.0 secure auth
+
+**Stack:** `GPT-4o` `LangFlow` `n8n` `Gmail API`
+
+</td>
+<td width="50%">
+
+### 📊 [Customer Churn Prediction](https://github.com/manas-shukla-101/Customer-Churn-Prediction-System)
+> XGBoost system with interactive Streamlit dashboard
+
+- 🎯 High/Medium/Low risk segmentation
+- 📈 Real-time Streamlit dashboard
+- 🛡️ AI-powered retention strategies
+- 🔬 Feature importance analysis
+
+**Stack:** `XGBoost` `Streamlit` `Scikit-Learn` `Pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 [E-Commerce BI Dashboard](https://github.com/manas-shukla-101/powerbi-ecommerce-sales-dashboard)
+> 3-page Power BI dashboard on Brazilian e-commerce data
+
+- ⭐ Star schema data modeling
+- 📅 MoM & YoY DAX time intelligence
+- 💡 Key insight: 96.8% one-time buyers
+- 🗺️ Executive, Customer & Product views
+
+**Stack:** `Power BI` `PostgreSQL` `DAX`
+
+</td>
+<td width="50%">
+
+### 🧠 [CLV Prediction Model](https://github.com/manas-shukla-101/Customer-Life-Time-Value-CLV-Prediction-Model)
+> Customer Lifetime Value prediction with RFM analysis
+
+- 📦 RFM feature engineering
+- 🌲 Random Forest algorithm
+- 📊 Business-ready interpretability
+- 🔧 Full preprocessing pipeline
+
+**Stack:** `Python` `Random Forest` `Scikit-Learn` `Pandas`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,54 +132,36 @@ me.say_hi()
 
 <div align="center">
 
-**🤖 AI & Automation**
+**AI & Automation**
 
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangFlow](https://img.shields.io/badge/LangFlow-FF6B6B?style=for-the-badge&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=openai,py,fastapi,flask&theme=dark)](https://skillicons.dev)
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangFlow](https://img.shields.io/badge/LangFlow-FF6B6B?style=for-the-badge&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white)
 
-**💻 Languages**
+**Languages & Frontend**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark)](https://skillicons.dev)
 
-**🧠 ML & Data Science**
+**Data Science & ML**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
 
-**⚙️ Backend & APIs**
-
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-**📊 Data Visualization & BI**
+**BI & Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**🗄️ Databases**
+**Databases & Tools**
 
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**🔧 Tools**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -119,10 +171,14 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manas-shukla-101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&theme=tokyonight&hide_border=true" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas-shukla-101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-shukla-101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-shukla-101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=manas-shukla-101&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9"/>
 
 </div>
 
@@ -132,17 +188,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=manas-shukla-101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manas-shukla-101&theme=tokyo-night&hide_border=true&area=true)
+![](https://github-profile-trophy.vercel.app/?username=manas-shukla-101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -150,8 +196,14 @@ me.say_hi()
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+### 💬 Quote I Live By
 
-*"Building AI solutions that automate the boring, surface the insights, and deliver real value."* 🚀
+> *"Building AI solutions that automate the boring, surface the insights, and deliver real value."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=manas-shukla-101&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
