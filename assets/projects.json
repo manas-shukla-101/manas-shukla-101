@@ -13,8 +13,8 @@
       "description": "Autonomous Gmail agent that classifies, routes, and replies - with human approval before deletion."
     },
     {
-      "repo": "Memori",
-      "description": "AI-powered memory and note assistant that surfaces the right info at the right time."
+      "repo": "Visual-Question-Answering",
+      "description": "Multi-modal AI system combining CV and NLP to answer complex questions about images."
     }
   ]
 }
