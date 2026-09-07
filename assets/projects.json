@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "HireSight-AI",
+      "description": "Resume vs JD semantic matching engine with skill-gap detection and auto PDF reports."
+    },
+    {
+      "repo": "AI-Data-Analyst-Agent",
+      "description": "Upload any dataset - get full EDA, Gemini-powered insights, and visualisations in one run."
+    },
+    {
+      "repo": "SmartInbox-AI",
+      "description": "Autonomous Gmail agent that classifies, routes, and replies - with human approval before deletion."
+    },
+    {
+      "repo": "Memori",
+      "description": "AI-powered memory and note assistant that surfaces the right info at the right time."
+    }
+  ]
+}

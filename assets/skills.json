@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "color": "#00C8FF",
+  "axes": [
+    { "label": "Python",      "value": 88 },
+    { "label": "ML / XGBoost","value": 78 },
+    { "label": "LLM / Agents","value": 82 },
+    { "label": "FastAPI/Flask","value": 80 },
+    { "label": "Automation",  "value": 76 },
+    { "label": "BI / Power BI","value": 70 },
+    { "label": "SQL",         "value": 72 }
+  ]
+}
