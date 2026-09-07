@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Manas Shukla — AI & Agentic Systems Builder"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C8FF&height=150&section=header&text=Manas%20Shukla&fontSize=50&fontAlign=50&fontAlignY=40&desc=AI%20%26%20Agentic%20Systems%20Builder&descAlignY=65&descAlign=50"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=00C8FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Manas+%F0%9F%91%8B;AI+%26+Agentic+Systems+Builder;Multi-Modal+%7C+LLMs+%7C+Automation;Final+Year+%E2%80%94+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;Building+systems+that+think+%26+act)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think+%26+act;Turning+raw+datasets+into+decisions;Architecting+multi-modal+AI+frameworks;Final+Year+Engineer+%E2%80%94+Mumbai+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,114 +13,60 @@
 <a href="mailto:shuklamanas89282@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/manas-shukla-101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=manas-shukla-101&color=00c8ff&label=profile+views&style=flat-square">
-<img src="https://img.shields.io/github/followers/manas-shukla-101?label=followers&style=flat-square&color=00c8ff">
-
 </div>
 
 ---
 
-## `whoami`
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### ⚡ `whoami`
 
 ```python
 class Manas:
-    name       = "Manas Shukla"
     role       = "AI & Agentic Systems Builder"
     location   = "Mumbai, India 🇮🇳"
-    education  = "Final Year B.E. — Computer Engineering"
-    focus      = ["Agentic AI", "Multi-Modal Systems", "Data Science", "MLOps"]
-    building   = "Memori — AI-powered memory assistant"
-    open_to    = ["Internships", "Research Collaborations", "Freelance AI Projects"]
-    fun_fact   = "I make LLMs argue with each other until they produce good science 🧪"
+    focus      = ["Agentic AI", "Data Science", "MLOps"]
+    building   = "Memori (AI-powered memory assistant)"
+    open_to    = ["Internships", "Research"]
+    
+    def approach(self):
+        return "Systems that run without babysitting"
 ```
 
-<div align="center">
+</td>
+<td width="45%" valign="top" align="center">
 
-| 🤖 What I Do | 🛠️ How I Do It | 🎯 What I Aim For |
-|:---:|:---:|:---:|
-| Build AI agents that route, classify & reply | Python · FastAPI · LangChain · n8n | Systems that run without babysitting |
-| Turn raw data into decisions | Pandas · Gemini · XGBoost · Power BI | Insights in one click, not one week |
-| Design multi-agent pipelines | Groq · OpenAI · LangFlow | Agents that debate, critique & self-improve |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+### 📊 GitHub Overview
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub Stats">
+  <img src="assets/card-stats-dark.svg" width="400" alt="GitHub Stats">
 </picture>
 
-</div>
+<img width="400" src="https://streak-stats.demolab.com?user=manas-shukla-101&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=c9d1d9&sideNums=e6edf3" alt="Streak Stats"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 GitHub Trophies
 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=manas-shukla-101&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=c9d1d9&sideNums=e6edf3" alt="Streak Stats"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=manas-shukla-101&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-
-
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=8">
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,sqlite,redis&perline=8">
-
-**Data & Automation**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,js&perline=8">
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logoColor=white)
-
-</div>
-
----
-
-## 📡 Skill Radar
-
-<!-- Generated by: python scripts/radar.py --data assets/skills.json -o assets/radar -->
-<!-- AND:          python scripts/radar.py --github manas-shukla-101 -o assets/radar-langs --limit 7 --values --curve 0.4 --exclude "shell,makefile,dockerfile,batchfile,procfile" -->
-
-<table><tr>
+<table width="100%">
+<tr>
 <td width="50%" align="center">
 
-**Self-rated**
+### 📡 Skill Radar
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
@@ -131,7 +77,7 @@ class Manas:
 </td>
 <td width="50%" align="center">
 
-**From the repos**
+### 💻 Language Distribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
@@ -140,16 +86,16 @@ class Manas:
 </picture>
 
 </td>
-</tr></table>
+</tr>
+</table>
 
 ---
 
-## 🗂️ Featured Projects
+### 🗂️ Featured Projects
 
-<!-- Generated by: python scripts/cards.py --user manas-shukla-101 --out assets -->
-
-<table><tr>
-<td width="50%">
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 <a href="https://github.com/manas-shukla-101/HireSight-AI">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-HireSight-AI-dark.svg">
@@ -158,7 +104,7 @@ class Manas:
 </picture>
 </a>
 </td>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/manas-shukla-101/AI-Data-Analyst-Agent">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-AI-Data-Analyst-Agent-dark.svg">
@@ -167,8 +113,9 @@ class Manas:
 </picture>
 </a>
 </td>
-</tr><tr>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" align="center">
 <a href="https://github.com/manas-shukla-101/SmartInbox-AI">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-SmartInbox-AI-dark.svg">
@@ -177,7 +124,7 @@ class Manas:
 </picture>
 </a>
 </td>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/manas-shukla-101/Memori">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-Memori-dark.svg">
@@ -186,74 +133,63 @@ class Manas:
 </picture>
 </a>
 </td>
-</tr></table>
-
-<div align="center"><sub>
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **HireSight AI** | Flask · spaCy · Sentence-Transformers · SQLite | Semantic JD↔Resume matching · skill-gap PDF reports |
-| **AI Data Analyst Agent** | FastAPI · Gemini AI · n8n · Pandas | Full EDA pipeline · natural-language data Q&A |
-| **SmartInbox AI** | GPT-4o · LangFlow · n8n · Gmail API | Auto-classify, route & reply · human-in-the-loop deletion |
-| **Memori** | Python · AI APIs | Context-aware memory that surfaces the right info |
-
-</sub></div>
+</tr>
+</table>
 
 ---
 
-## 📅 Coding Activity
-
-<!-- Generated by metrics.yml workflow -->
+### 📈 Activity & Contributions
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-shukla-101&theme=react-dark&bg_color=0d1117&hide_border=true&color=00C8FF&line=00C8FF&point=ffffff&area=true&area_color=00C8FF" width="100%" alt="Activity Graph">
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.isocalendar.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/metrics.isocalendar.svg">
-  <img src="assets/metrics.isocalendar.svg" width="860" alt="isometric contribution calendar" onerror="this.style.display='none'">
+  <img src="assets/metrics.isocalendar.svg" width="100%" alt="isometric contribution calendar" onerror="this.style.display='none'">
 </picture>
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake-dark.svg" alt="contribution snake">
+  <img src="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake-dark.svg" alt="contribution snake" width="100%">
 </picture>
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
+### 🧰 Tech Arsenal
 
-```text
-🔬 Agentic System Design     ████████████░░░   Building multi-agent debate frameworks
-🧠 Multi-Modal AI Evaluation ██████████░░░░░   RAG + vision + structured output pipelines
-📊 Production MLOps          ████████░░░░░░░   FastAPI · Docker · GitHub Actions
-📚 Final Year Research       ██████░░░░░░░░░   Computer Vision + LLM hybrid systems
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,nodejs,postgres,sqlite,redis,git,github,vscode,docker,linux,js&perline=8">
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=manas-shukla-101&color=00c8ff&label=Profile+Views&style=flat-square">
+<img src="https://img.shields.io/github/followers/manas-shukla-101?label=Followers&style=flat-square&color=00c8ff">
+
 **Let's build something that matters.**
-
-<a href="mailto:shuklamanas89282@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-00C8FF?style=for-the-badge&logoColor=black"></a>
-<a href="https://manas-shukla-portfolio.framer.website"><img src="https://img.shields.io/badge/See_My_Work-181717?style=for-the-badge&logoColor=white"></a>
-<a href="https://linkedin.com/in/manas-shukla-006774370"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=manas-shukla-101&color=00c8ff&label=profile+views&style=flat-square">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C8FF&height=80&section=footer&reversal=false&animation=fadeIn"/>
 
 </div>
