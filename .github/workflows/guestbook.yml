@@ -1,0 +1,62 @@
+name: Update Guestbook
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-guestbook:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'guestbook') || contains(github.event.issue.title, 'Guestbook')
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const username = context.payload.issue.user.login;
+            const avatarUrl = context.payload.issue.user.avatar_url;
+            const profileUrl = context.payload.issue.user.html_url;
+            
+            const newEntry = `<a href="${profileUrl}"><img src="${avatarUrl}" width="40" style="border-radius:50%; margin:5px;" alt="@${username}"/></a>`;
+            
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const startMarker = '<!-- GUESTBOOK_START -->';
+            const endMarker = '<!-- GUESTBOOK_END -->';
+            
+            const startIndex = readme.indexOf(startMarker);
+            const endIndex = readme.indexOf(endMarker);
+            
+            if (startIndex !== -1 && endIndex !== -1) {
+              const before = readme.slice(0, startIndex + startMarker.length);
+              const content = readme.slice(startIndex + startMarker.length, endIndex).trim();
+              const after = readme.slice(endIndex);
+              
+              let entries = content ? content.split('\n') : [];
+              if (!entries.includes(newEntry)) {
+                 entries.unshift(newEntry);
+              }
+              entries = entries.slice(0, 14);
+              
+              const newReadme = `${before}\n${entries.join('\n')}\n${after}`;
+              fs.writeFileSync('README.md', newReadme);
+            }
+            
+            // Auto-close the issue
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Guestbook with @${{ github.event.issue.user.login }}" || exit 0
+          git push
