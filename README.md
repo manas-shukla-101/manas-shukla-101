@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C8FF&height=150&section=header&text=Manas%20Shukla&fontSize=50&fontAlign=50&fontAlignY=40&desc=AI%20%26%20Agentic%20Systems%20Builder&descAlignY=65&descAlign=50"/>
+<h1 align="center">Manas Shukla</h1>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think+%26+act;Turning+raw+datasets+into+decisions;Architecting+multi-modal+AI+frameworks;Final+Year+Engineer+%E2%80%94+Mumbai+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=850&lines=Building+systems+that+think+%26+act;Turning+raw+datasets+into+decisions;Architecting+multi-modal+AI+frameworks;Final+Year+Engineer+%E2%80%94+Mumbai+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br/>
 
@@ -54,10 +52,14 @@ class Manas:
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manas-shukla-101&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.achievements.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/metrics.achievements.svg">
+  <img src="assets/metrics.achievements.svg" width="860" alt="achievements" onerror="this.style.display='none'">
+</picture>
 </div>
 
 ---
@@ -141,8 +143,6 @@ class Manas:
 ### 📈 Activity & Contributions
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-shukla-101&theme=react-dark&bg_color=0d1117&hide_border=true&color=00C8FF&line=00C8FF&point=ffffff&area=true&area_color=00C8FF" width="100%" alt="Activity Graph">
 
 <br/>
 
