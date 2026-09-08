@@ -6,36 +6,6 @@
 
 </div>
 
----
-
-<div align="center">
-  <h2>🕹️ LIVE ARENA: PLAY TIC-TAC-TOE VS MANAS-AI</h2>
-  <p>Can you beat my Minimax AI Agent? Click an empty square to make your move!<br><i>Powered entirely by GitHub Actions and Python</i></p>
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tictactoe.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tictactoe.svg">
-  <img src="assets/tictactoe.svg" width="600" alt="Tic-Tac-Toe Board">
-</picture>
-
-<!-- TTT_START -->
-
-| Row 0 | Row 1 | Row 2 |
-| :---: | :---: | :---: |
-| [ 🟦 Play (0,0) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|0&body=Just+click+%27Submit+new+issue%27+to+play+at+index+0.+Manas-AI+will+counter-move+automatically!) | [ 🟦 Play (0,1) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|1&body=Just+click+%27Submit+new+issue%27+to+play+at+index+1.+Manas-AI+will+counter-move+automatically!) | [ 🟦 Play (0,2) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|2&body=Just+click+%27Submit+new+issue%27+to+play+at+index+2.+Manas-AI+will+counter-move+automatically!) |
-| [ 🟦 Play (1,0) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|3&body=Just+click+%27Submit+new+issue%27+to+play+at+index+3.+Manas-AI+will+counter-move+automatically!) | [ 🟦 Play (1,1) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|4&body=Just+click+%27Submit+new+issue%27+to+play+at+index+4.+Manas-AI+will+counter-move+automatically!) | [ 🟦 Play (1,2) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|5&body=Just+click+%27Submit+new+issue%27+to+play+at+index+5.+Manas-AI+will+counter-move+automatically!) |
-| [ 🟦 Play (2,0) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|6&body=Just+click+%27Submit+new+issue%27+to+play+at+index+6.+Manas-AI+will+counter-move+automatically!) | [ 🟦 Play (2,1) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|7&body=Just+click+%27Submit+new+issue%27+to+play+at+index+7.+Manas-AI+will+counter-move+automatically!) | [ 🟦 Play (2,2) ](https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|play|8&body=Just+click+%27Submit+new+issue%27+to+play+at+index+8.+Manas-AI+will+counter-move+automatically!) |
-
-<div align="center">
-  <br>
-  <a href="https://github.com/manas-shukla-101/manas-shukla-101/issues/new?title=ttt|reset&body=Click+submit+to+start+a+new+match!"><img src="https://img.shields.io/badge/%F0%9F%94%84%20START%20NEW%20MATCH-0d1117?style=for-the-badge&logo=github&logoColor=00f5d4" alt="Reset Game"></a>
-</div>
-<!-- TTT_END -->
-
-</div>
 
 ---
 
