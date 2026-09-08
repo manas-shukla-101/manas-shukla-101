@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,sans-serif">
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0d1117" />
+            <stop offset="100%" stop-color="#040711" />
+        </linearGradient>
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter id="neon_x">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur1" />
+            <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur2" />
+            <feMerge><feMergeNode in="blur2" /><feMergeNode in="blur1" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="neon_o">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur1" />
+            <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur2" />
+            <feMerge><feMergeNode in="blur2" /><feMergeNode in="blur1" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+    </defs>
+    
+    <rect width="600" height="320" rx="16" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+    
+    <g transform="translate(40, 40)">
+        <!-- Grid -->
+        <line x1="80" y1="0" x2="80" y2="240" stroke="#1f242e" stroke-width="6" stroke-linecap="round"/>
+        <line x1="160" y1="0" x2="160" y2="240" stroke="#1f242e" stroke-width="6" stroke-linecap="round"/>
+        <line x1="0" y1="80" x2="240" y2="80" stroke="#1f242e" stroke-width="6" stroke-linecap="round"/>
+        <line x1="0" y1="160" x2="240" y2="160" stroke="#1f242e" stroke-width="6" stroke-linecap="round"/>
+        
+        <!-- Cells -->
+
+        <text x="40" y="45" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(0,0)</text>
+
+        <text x="120" y="45" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(0,1)</text>
+
+        <text x="200" y="45" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(0,2)</text>
+
+        <text x="40" y="125" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(1,0)</text>
+
+        <text x="120" y="125" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(1,1)</text>
+
+        <text x="200" y="125" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(1,2)</text>
+
+        <text x="40" y="205" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(2,0)</text>
+
+        <text x="120" y="205" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(2,1)</text>
+
+        <text x="200" y="205" font-size="12" fill="#30363d" text-anchor="middle" font-weight="bold">(2,2)</text>
+
+    </g>
+
+    <!-- Side Panel -->
+    <g transform="translate(320, 40)">
+        <text x="0" y="20" font-size="22" font-weight="900" fill="#ffffff" letter-spacing="1">PLAY VS MANAS-AI</text>
+        <text x="0" y="45" font-size="14" fill="#8b949e">Minimax Agent Engine v2.4</text>
+        
+        <rect x="0" y="65" width="240" height="40" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="120" y="90" font-size="16" font-weight="bold" fill="#00f5d4" text-anchor="middle" filter="url(#glow)">⚡ YOUR TURN (X)</text>
+
+        <text x="0" y="140" font-size="14" font-weight="bold" fill="#c9d1d9">Global Match Record</text>
+        
+        <g transform="translate(0, 160)">
+            <rect x="0" y="0" width="75" height="60" rx="6" fill="#161b22"/>
+            <text x="37.5" y="25" font-size="20" font-weight="bold" fill="#00f5d4" text-anchor="middle">0</text>
+            <text x="37.5" y="45" font-size="10" fill="#8b949e" text-anchor="middle">Wins (X)</text>
+            
+            <rect x="82.5" y="0" width="75" height="60" rx="6" fill="#161b22"/>
+            <text x="120" y="25" font-size="20" font-weight="bold" fill="#7b2cbf" text-anchor="middle">0</text>
+            <text x="120" y="45" font-size="10" fill="#8b949e" text-anchor="middle">AI Wins (O)</text>
+            
+            <rect x="165" y="0" width="75" height="60" rx="6" fill="#161b22"/>
+            <text x="202.5" y="25" font-size="20" font-weight="bold" fill="#e6edf3" text-anchor="middle">0</text>
+            <text x="202.5" y="45" font-size="10" fill="#8b949e" text-anchor="middle">Draws</text>
+        </g>
+        
+        <text x="0" y="250" font-size="13" fill="#8b949e">Last Challenger:</text>
+        <text x="0" y="270" font-size="15" font-weight="bold" fill="#58a6ff">@LocalUser</text>
+    </g>
+</svg>

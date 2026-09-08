@@ -1,0 +1,47 @@
+name: Play Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play-game:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'ttt|')
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Play Move
+        run: |
+          python scripts/tictactoe.py --action "${{ github.event.issue.title }}" --user "${{ github.event.issue.user.login }}"
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/tictactoe_state.json assets/tictactoe.svg README.md
+          git commit -m "🎮 Tic-Tac-Toe move by @${{ github.event.issue.user.login }}" || exit 0
+          git push
+
+      - name: Close Issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `🤖 Move processed for @${context.payload.issue.user.login}! The board has been updated on the main README.`
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });

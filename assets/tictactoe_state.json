@@ -1,0 +1,24 @@
+{
+  "board": [
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " "
+  ],
+  "turn": "X",
+  "status": "in_progress",
+  "winner": null,
+  "stats": {
+    "community_wins": 0,
+    "ai_wins": 0,
+    "draws": 0,
+    "total_games": 4
+  },
+  "last_player": "LocalUser",
+  "last_move": null
+}
