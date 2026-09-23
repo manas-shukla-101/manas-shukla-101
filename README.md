@@ -18,7 +18,7 @@ manas@quantum-node:~$ ./init_session --user visitor
 [SYSTEM READY] Connecting to Manas Shukla's Neural Cluster...
 
 ❯ BIO:          Autonomous AI Systems Architect & Machine Learning Engineer
-❯ LOCATION:     Pune, India 🇮🇳
+❯ LOCATION:     Mumbai, India 🇮🇳
 ❯ SPECIALTY:    Multi-Agent Orchestration, Multimodal Vision-Language, LLM Tool-Use
 ❯ PORTFOLIO:    https://manas-shukla-portfolio.framer.website
 ❯ LINKEDIN:     https://linkedin.com/in/manas-shukla-006774370
