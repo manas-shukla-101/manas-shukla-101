@@ -3,6 +3,11 @@
 
 <div align="center">
 
+<!-- CIRCULAR PROFILE PHOTO -->
+<img src="assets/manas-circle.svg" width="160" alt="Manas Shukla">
+
+<br>
+
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=🤖+Building+AI+that+actually+works;🔍+RAG+%7C+Agents+%7C+Multimodal+AI;📊+Turning+raw+data+into+real+insights;🚀+B.Sc+Data+Science+%40+Mumbai;💡+Open+to+Internships+%26+Collaborations" alt="Typing SVG">
 
@@ -26,24 +31,50 @@
 <!-- ABOUT ME -->
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
+
+<img src="assets/manas-circle.svg" width="200" alt="Manas Shukla">
+
+**Manas Shukla**
+Mumbai, India 🇮🇳
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=framer&logoColor=white)](https://manas-shukla-portfolio.framer.website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-shukla-006774370)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shuklamanas89282@gmail.com)
+
+</td>
+<td width="65%" valign="top">
+
 ```python
 class ManasShukla:
     def __init__(self):
         self.name        = "Manas Shukla"
         self.location    = "Mumbai, India 🇮🇳"
         self.degree      = "B.Sc Data Science"
-        self.focus       = ["Applied AI", "RAG Systems", "Intelligent Automation"]
-        self.tools       = ["Python", "FastAPI", "React", "n8n", "LangChain"]
+        self.focus       = ["Applied AI", "RAG Systems",
+                            "Intelligent Automation"]
+        self.tools       = ["Python", "FastAPI", "React",
+                            "n8n", "LangChain"]
         self.llms        = ["GPT-4o", "Gemini", "Claude"]
-        self.currently   = "Building AI apps that solve real problems 🚀"
-        self.open_to     = ["Internships", "Research Collaborations", "Freelance"]
+        self.currently   = "Building AI apps that solve "
+                         + "real problems 🚀"
+        self.open_to     = ["Internships",
+                            "Research Collaborations",
+                            "Freelance"]
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome together.")
+        print("Thanks for stopping by!")
+        print("Let's build something awesome together.")
 
 me = ManasShukla()
 me.say_hi()
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
