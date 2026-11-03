@@ -35,7 +35,7 @@
 <tr>
 <td width="35%" align="center" valign="top">
 
-<img src="assets/manas-circle.svg" width="200" alt="Manas Shukla">
+<img src="assets/manas.jpg" width="220" alt="Manas Shukla">
 
 **Manas Shukla**
 Mumbai, India 🇮🇳
