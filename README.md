@@ -1,154 +1,154 @@
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D12,50:3B1F6E,100:7C3AED&height=280&section=header&text=Manas%20Shukla&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=22&descColor=C4B5FD" width="100%">
+
 <div align="center">
 
-<img src="assets/profile-header.svg" alt="Manas Shukla — AI Builder & Data Science" width="100%">
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=🤖+Building+AI+that+actually+works;🔍+RAG+%7C+Agents+%7C+Multimodal+AI;📊+Turning+raw+data+into+real+insights;🚀+B.Sc+Data+Science+%40+Mumbai;💡+Open+to+Internships+%26+Collaborations" alt="Typing SVG">
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-101116?style=for-the-badge&logo=framer&logoColor=B9A9FF)](https://manas-shukla-portfolio.framer.website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-101116?style=for-the-badge&logo=linkedin&logoColor=B9A9FF)](https://www.linkedin.com/in/manas-shukla-006774370)
-[![Email](https://img.shields.io/badge/Email-101116?style=for-the-badge&logo=gmail&logoColor=B9A9FF)](mailto:shuklamanas89282@gmail.com)
-[![GitHub](https://img.shields.io/badge/Repositories-101116?style=for-the-badge&logo=github&logoColor=B9A9FF)](https://github.com/manas-shukla-101?tab=repositories)
+<!-- SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge&logoColor=white)](https://manas-shukla-portfolio.framer.website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-shukla-006774370)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklamanas89282@gmail.com)
+[![GitHub](https://img.shields.io/badge/All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manas-shukla-101?tab=repositories)
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B9A9FF&center=true&vCenter=true&width=560&lines=B.Sc+Data+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Practical+AI+Applications+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG">
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=manas-shukla-101&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
 ---
 
-## About
+<!-- ABOUT ME -->
+## 🧠 About Me
 
-I'm **Manas**, a B.Sc. Data Science student from Mumbai, India, passionate about turning ideas into real AI-powered products.
+```python
+class ManasShukla:
+    def __init__(self):
+        self.name        = "Manas Shukla"
+        self.location    = "Mumbai, India 🇮🇳"
+        self.degree      = "B.Sc Data Science"
+        self.focus       = ["Applied AI", "RAG Systems", "Intelligent Automation"]
+        self.tools       = ["Python", "FastAPI", "React", "n8n", "LangChain"]
+        self.llms        = ["GPT-4o", "Gemini", "Claude"]
+        self.currently   = "Building AI apps that solve real problems 🚀"
+        self.open_to     = ["Internships", "Research Collaborations", "Freelance"]
 
-I enjoy the full arc — exploring a problem, wrangling data, connecting APIs and LLMs, and shipping something people can actually use. My focus right now sits at the intersection of **applied AI, retrieval systems, and intelligent automation**.
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something awesome together.")
 
-> 🔍 **Currently exploring:** RAG architectures · multi-agent orchestration · computer vision · workflow automation
->
-> 💼 **Open to:** internships · research collaborations · freelance AI/ML projects
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Clarix AI ↗](https://github.com/manas-shukla-101/Clarix-AI)
-Browser-based data visualization tool. Upload **CSV, JSON or Excel** files and get AI-assisted chart suggestions instantly — zero backend required.
-
-`JavaScript` `Data Visualization` `AI` `Browser-native`
-
-</td>
-<td width="50%" valign="top">
-
-### [OmniRAG AI ↗](https://github.com/manas-shukla-101/OmniRag-AI)
-Enterprise-grade RAG assistant with **hybrid search** (BM25 + semantic embeddings + cross-encoders) ingesting PDFs, CSVs and source code.
-
-`FastAPI` `React` `RAG` `Hybrid Search`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [AI Data Analyst Agent ↗](https://github.com/manas-shukla-101/AI-Data-Analyst-Agent)
-Upload any dataset → get full EDA, **Gemini-powered insights**, and interactive visualizations automatically. Data analysis on autopilot.
-
-`Python` `Gemini AI` `n8n` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### [SmartInbox AI ↗](https://github.com/manas-shukla-101/SmartInbox-AI)
-Autonomous Gmail agent that **classifies, routes and replies** to emails using GPT-4o — with a human-in-the-loop approval step for sensitive actions.
-
-`GPT-4o` `n8n` `Gmail API` `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [HireSight AI ↗](https://github.com/manas-shukla-101/HireSight-AI)
-AI resume analyzer that does **semantic JD matching**, detects skill gaps, and generates PDF reports. Built with NLP and sentence transformers.
-
-`Python` `NLP` `Sentence Transformers` `PDF`
-
-</td>
-<td width="50%" valign="top">
-
-### [Customer Churn Prediction ↗](https://github.com/manas-shukla-101/Customer-Churn-Prediction-System)
-**XGBoost-powered** churn model with an interactive Streamlit dashboard to explore churn drivers and segment customers by risk tier.
-
-`Python` `XGBoost` `Streamlit` `ML`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/manas-shukla-101?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20all%20projects%20→-101116?style=for-the-badge&logo=github&logoColor=B9A9FF" alt="All repositories">
-</a>
-
-</div>
+me = ManasShukla()
+me.say_hi()
+```
 
 ---
 
+<!-- TECH STACK -->
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages & Data**
 
-<p>
-<img src="https://img.shields.io/badge/Python-24232B?style=flat-square&logo=python&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/SQL-24232B?style=flat-square&logo=postgresql&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/JavaScript-24232B?style=flat-square&logo=javascript&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Pandas-24232B?style=flat-square&logo=pandas&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/NumPy-24232B?style=flat-square&logo=numpy&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Scikit--learn-24232B?style=flat-square&logo=scikitlearn&logoColor=9B8AFB">
-</p>
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![SQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![R](https://skillicons.dev/icons?i=r)](https://r-project.org)
 
 **AI, ML & Automation**
 
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-24232B?style=flat-square&logo=googlegemini&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/OpenAI-24232B?style=flat-square&logo=openai&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/LangChain-24232B?style=flat-square&logo=chainlink&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/n8n-24232B?style=flat-square&logo=n8n&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/XGBoost-24232B?style=flat-square&logo=python&logoColor=9B8AFB">
-</p>
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![OpenAI](https://skillicons.dev/icons?i=openai)](https://openai.com)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 
-**Apps, Analytics & Tools**
+**Web & Tools**
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-24232B?style=flat-square&logo=fastapi&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/React-24232B?style=flat-square&logo=react&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Streamlit-24232B?style=flat-square&logo=streamlit&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Power_BI-24232B?style=flat-square&logo=powerbi&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Advanced_Excel-24232B?style=flat-square&logo=microsoftexcel&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Git-24232B?style=flat-square&logo=git&logoColor=9B8AFB">
-</p>
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Streamlit](https://skillicons.dev/icons?i=sklearn)](https://streamlit.io)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+<!-- PROJECTS -->
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manas-shukla-101&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=B9A9FF&icon_color=B9A9FF&text_color=C8C6D2&count_private=true" alt="GitHub Stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-shukla-101&layout=compact&hide_border=true&bg_color=0D0D12&title_color=B9A9FF&text_color=C8C6D2&langs_count=8" alt="Top Languages">
+| 🏆 Project | 💡 What it does | 🔧 Stack |
+|:---|:---|:---|
+| [**Clarix AI** ↗](https://github.com/manas-shukla-101/Clarix-AI) | Browser-native data viz tool — upload CSV/JSON/Excel, get AI-powered chart suggestions instantly. Zero backend. | `JavaScript` `AI` `Vega-Lite` |
+| [**OmniRAG AI** ↗](https://github.com/manas-shukla-101/OmniRag-AI) | Enterprise RAG assistant with hybrid search (BM25 + semantic + cross-encoders) across PDFs, CSVs & code. | `FastAPI` `React` `FAISS` |
+| [**AI Data Analyst Agent** ↗](https://github.com/manas-shukla-101/AI-Data-Analyst-Agent) | Upload any dataset → full EDA + Gemini-powered insights + interactive charts. Autopilot analytics. | `Python` `Gemini` `n8n` |
+| [**SmartInbox AI** ↗](https://github.com/manas-shukla-101/SmartInbox-AI) | Autonomous Gmail agent that classifies, routes & replies with GPT-4o — human approval before deletion. | `GPT-4o` `n8n` `Gmail API` |
+| [**HireSight AI** ↗](https://github.com/manas-shukla-101/HireSight-AI) | Semantic JD matching engine with skill-gap detection and auto-generated PDF reports. | `Python` `NLP` `Sentence-BERT` |
+| [**Churn Predictor** ↗](https://github.com/manas-shukla-101/Customer-Churn-Prediction-System) | XGBoost churn model + interactive Streamlit dashboard to segment customers by risk tier. | `XGBoost` `Streamlit` `Pandas` |
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/manas-shukla-101?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎_Explore_All_Projects-7C3AED?style=for-the-badge&logoColor=white" alt="All repos">
+  </a>
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manas-shukla-101&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=A78BFA&text_color=C8C6D2&count_private=true&rank_icon=github" alt="GitHub Stats">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&hide_border=true&background=0D0D12&stroke=A78BFA&ring=7C3AED&fire=FF6E6E&currStreakLabel=A78BFA&sideLabels=C8C6D2&dates=777788&currStreakNum=ffffff" alt="Streak Stats">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&theme=transparent&hide_border=true&stroke=B9A9FF&ring=B9A9FF&fire=FF6E6E&currStreakLabel=B9A9FF&sideLabels=C8C6D2&dates=888899&background=0D0D12" alt="GitHub Streak">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-shukla-101&layout=donut&hide_border=true&bg_color=0D0D12&title_color=A78BFA&text_color=C8C6D2&langs_count=8" alt="Top Languages">
 
-<br><br>
+</div>
+
+---
+
+<!-- TROPHIES -->
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manas-shukla-101&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies">
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-shukla-101&bg_color=0D0D12&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&area_color=3B1F6E" width="100%" alt="Activity Graph">
+
+</div>
+
+---
+
+<!-- SNAKE -->
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake.svg">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake.svg" width="100%">
 </picture>
@@ -157,14 +157,18 @@ AI resume analyzer that does **semantic JD matching**, detects skill gaps, and g
 
 ---
 
+<!-- QUOTE -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=manas-shukla-101&style=flat-square&color=8B7BE8&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 
 <br><br>
 
-**Thanks for stopping by.**
+*Always learning. Always building.* 🚀
 
-*Always learning. Always building.*
+<br>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0D0D12&height=120&section=footer" width="100%">
 
 </div>
