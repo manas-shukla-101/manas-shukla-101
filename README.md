@@ -101,14 +101,12 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Streak stats — reliable on herokuapp -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&hide_border=true&background=0D0D12&stroke=A78BFA&ring=7C3AED&fire=FF6E6E&currStreakLabel=A78BFA&sideLabels=C8C6D2&dates=777788&currStreakNum=ffffff" alt="Streak Stats">
-<!-- Stats via github-readme-stats with cache busting -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manas-shukla-101&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=A78BFA&text_color=C8C6D2&count_private=true&rank_icon=percentile&cache_seconds=21600" alt="GitHub Stats">
+<!-- Streak + Profile Details side by side — both proven reliable -->
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&hide_border=true&background=0D0D12&stroke=A78BFA&ring=7C3AED&fire=FF6E6E&currStreakLabel=A78BFA&sideLabels=C8C6D2&dates=777788&currStreakNum=ffffff" alt="Streak Stats">
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manas-shukla-101&theme=midnight_purple" alt="Stats">
 
 <br><br>
 
-<!-- Profile summary cards — independent service, very reliable -->
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manas-shukla-101&theme=midnight_purple" alt="Repos Per Language">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manas-shukla-101&theme=midnight_purple" alt="Most Commit Language">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manas-shukla-101&theme=midnight_purple&utcOffset=5.5" alt="Productive Time">
@@ -121,24 +119,16 @@ me.say_hi()
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 Achievements
+<!-- QUICK STATS BADGES — shields.io, always 100% reliable -->
+## 🏅 At a Glance
 
 <div align="center">
 
-<!-- Using ryo-ma trophy — stable endpoint -->
-<img src="https://github-profile-trophy.vercel.app/?username=manas-shukla-101&theme=radical&no-bg=true&no-frame=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies">
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-shukla-101&theme=react-dark&hide_border=true&area=true&area_color=3B1F6E&line=7C3AED&point=A78BFA&color=C4B5FD&bg_color=0D0D12" width="100%" alt="Activity Graph">
+![Followers](https://img.shields.io/github/followers/manas-shukla-101?style=for-the-badge&logo=github&label=Followers&color=7C3AED&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/manas-shukla-101?style=for-the-badge&logo=github&label=Total%20Stars&color=7C3AED&labelColor=1a1a2e)
+![Repos](https://img.shields.io/badge/Public%20Repos-20-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1a2e)
+![Open To](https://img.shields.io/badge/Open%20To-Internships-22c55e?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
