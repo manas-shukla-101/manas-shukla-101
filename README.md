@@ -53,28 +53,20 @@ me.say_hi()
 <div align="center">
 
 **Languages & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,postgres,r&perline=5" alt="Languages">
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![SQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-[![R](https://skillicons.dev/icons?i=r)](https://r-project.org)
+<br>
 
-**AI, ML & Automation**
+**AI · ML · Automation**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,gcp&perline=5" alt="AI & ML">
 
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![OpenAI](https://skillicons.dev/icons?i=openai)](https://openai.com)
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+<br>
 
-**Web & Tools**
-
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Streamlit](https://skillicons.dev/icons?i=sklearn)](https://streamlit.io)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+**Web & Dev Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,react,git,vscode,github&perline=5" alt="Tools">
 
 </div>
 
@@ -109,12 +101,21 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manas-shukla-101&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=A78BFA&text_color=C8C6D2&count_private=true&rank_icon=github" alt="GitHub Stats">
+<!-- Streak stats — reliable on herokuapp -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&hide_border=true&background=0D0D12&stroke=A78BFA&ring=7C3AED&fire=FF6E6E&currStreakLabel=A78BFA&sideLabels=C8C6D2&dates=777788&currStreakNum=ffffff" alt="Streak Stats">
+<!-- Stats via github-readme-stats with cache busting -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manas-shukla-101&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A78BFA&icon_color=A78BFA&text_color=C8C6D2&count_private=true&rank_icon=percentile&cache_seconds=21600" alt="GitHub Stats">
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-shukla-101&layout=donut&hide_border=true&bg_color=0D0D12&title_color=A78BFA&text_color=C8C6D2&langs_count=8" alt="Top Languages">
+<!-- Profile summary cards — independent service, very reliable -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manas-shukla-101&theme=midnight_purple" alt="Repos Per Language">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manas-shukla-101&theme=midnight_purple" alt="Most Commit Language">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manas-shukla-101&theme=midnight_purple&utcOffset=5.5" alt="Productive Time">
+
+<br><br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manas-shukla-101&theme=midnight_purple" alt="Profile Details">
 
 </div>
 
@@ -125,7 +126,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manas-shukla-101&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies">
+<!-- Using ryo-ma trophy — stable endpoint -->
+<img src="https://github-profile-trophy.vercel.app/?username=manas-shukla-101&theme=radical&no-bg=true&no-frame=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies">
 
 </div>
 
@@ -136,7 +138,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-shukla-101&bg_color=0D0D12&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&area_color=3B1F6E" width="100%" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-shukla-101&theme=react-dark&hide_border=true&area=true&area_color=3B1F6E&line=7C3AED&point=A78BFA&color=C4B5FD&bg_color=0D0D12" width="100%" alt="Activity Graph">
 
 </div>
 
