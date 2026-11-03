@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="62" viewBox="0 0 1100 62">
+<rect width="1100" height="62" rx="10" fill="#0D1423"/>
+<path d="M0 61H1100" stroke="#33415A"/>
+<path d="M0 0H92" stroke="#5AF0D0" stroke-width="3"/>
+<text x="22" y="37" fill="#5AF0D0" font-family="Arial" font-size="12" font-weight="700" letter-spacing="3">NEXUS / SYSTEM MODULE</text>
+<path d="M310 31H1040" stroke="#29364E" stroke-dasharray="3 7"/>
+<circle cx="1064" cy="31" r="4" fill="#B99AFF"/>
+<circle cx="1082" cy="31" r="4" fill="#5AF0D0"/>
+</svg>

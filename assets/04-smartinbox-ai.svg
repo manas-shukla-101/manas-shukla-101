@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="232" viewBox="0 0 600 232" role="img" aria-labelledby="t d">
+<title id="t">SMARTINBOX AI</title><desc id="d">INTELLIGENT EMAIL AUTOMATION. Classify, route and summarize. Human approval for sensitive actions.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#151B30"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF9BBD"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+ <radialGradient id="orb"><stop offset="0" stop-color="#FF9BBD" stop-opacity=".16"/><stop offset="1" stop-color="#FF9BBD" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="1" y="1" width="598" height="230" rx="17" fill="url(#bg)" stroke="#34415A"/>
+<rect x="1" y="1" width="598" height="3" rx="2" fill="url(#edge)"/>
+<circle cx="470" cy="116" r="150" fill="url(#orb)"/>
+<text x="28" y="34" fill="#FF9BBD" font-size="11" font-family="Arial" font-weight="700" letter-spacing="2.5">04  /  FEATURED PROJECT</text>
+<text x="28" y="78" fill="#F4F7FF" font-size="25" font-family="Arial" font-weight="800" letter-spacing=".4">SMARTINBOX AI</text>
+<text x="29" y="101" fill="#8EA0BE" font-size="10" font-family="Arial" font-weight="700" letter-spacing="1.4">INTELLIGENT EMAIL AUTOMATION</text>
+<text x="29" y="137" fill="#D5DDF0" font-size="13" font-family="Arial">Classify, route and summarize.</text>
+<text x="29" y="157" fill="#D5DDF0" font-size="13" font-family="Arial">Human approval for sensitive actions.</text>
+<path d="M29 181H326" stroke="#34415A"/>
+<text x="29" y="202" fill="#FF9BBD" font-size="9" font-family="Arial" font-weight="700" letter-spacing=".8">GPT-4o   ·   N8N   ·   LANGFLOW</text>
+
+        <g transform="translate(370 55)">
+          <rect x="0" y="0" width="174" height="128" rx="14" fill="#111B2C" stroke="#30405B"/>
+          <rect x="17" y="21" width="140" height="84" rx="9" fill="#19263B" stroke="#465673"/>
+          <path d="M18 29L87 78L156 29" fill="none" stroke="#FF9BBD" stroke-width="3" stroke-linejoin="round"/>
+          <path d="M18 98L65 61M156 98L109 61" fill="none" stroke="#A78BFA" stroke-opacity=".8" stroke-width="2"/>
+          <circle cx="139" cy="18" r="10" fill="#A78BFA"/>
+          <path d="M135 18L138 21L144 14" fill="none" stroke="#101827" stroke-width="2"/>
+          <text x="18" y="119" fill="#8191AE" font-size="8" font-family="Arial">CLASSIFY · ROUTE · APPROVE</text>
+        </g>
+</svg>

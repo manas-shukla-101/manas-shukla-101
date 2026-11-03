@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="232" viewBox="0 0 600 232" role="img" aria-labelledby="t d">
+<title id="t">CHURN PREDICTION</title><desc id="d">PREDICTIVE ANALYTICS. Identify customers at risk. Explore churn drivers and segments.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1020"/><stop offset="1" stop-color="#151B30"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#69F0D0"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+ <radialGradient id="orb"><stop offset="0" stop-color="#69F0D0" stop-opacity=".16"/><stop offset="1" stop-color="#69F0D0" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="1" y="1" width="598" height="230" rx="17" fill="url(#bg)" stroke="#34415A"/>
+<rect x="1" y="1" width="598" height="3" rx="2" fill="url(#edge)"/>
+<circle cx="470" cy="116" r="150" fill="url(#orb)"/>
+<text x="28" y="34" fill="#69F0D0" font-size="11" font-family="Arial" font-weight="700" letter-spacing="2.5">06  /  FEATURED PROJECT</text>
+<text x="28" y="78" fill="#F4F7FF" font-size="25" font-family="Arial" font-weight="800" letter-spacing=".4">CHURN PREDICTION</text>
+<text x="29" y="101" fill="#8EA0BE" font-size="10" font-family="Arial" font-weight="700" letter-spacing="1.4">PREDICTIVE ANALYTICS</text>
+<text x="29" y="137" fill="#D5DDF0" font-size="13" font-family="Arial">Identify customers at risk.</text>
+<text x="29" y="157" fill="#D5DDF0" font-size="13" font-family="Arial">Explore churn drivers and segments.</text>
+<path d="M29 181H326" stroke="#34415A"/>
+<text x="29" y="202" fill="#69F0D0" font-size="9" font-family="Arial" font-weight="700" letter-spacing=".8">XGBOOST   ·   STREAMLIT   ·   SCIKIT-LEARN</text>
+
+        <g transform="translate(374 54)">
+          <rect x="0" y="0" width="170" height="132" rx="14" fill="#111B2C" stroke="#30405B"/>
+          <path d="M18 28H152M18 57H152M18 86H152" stroke="#34435D"/>
+          <path d="M20 20L55 36L88 50L122 77L151 105" fill="none" stroke="#69F0D0" stroke-width="3" stroke-linecap="round"/>
+          <path d="M20 20L55 36L88 50L122 77L151 105L151 112L20 112Z" fill="#69F0D0" fill-opacity=".09"/>
+          <circle cx="122" cy="77" r="5" fill="#A78BFA"/>
+          <rect x="18" y="99" width="52" height="18" rx="5" fill="#A78BFA" fill-opacity=".15" stroke="#A78BFA" stroke-opacity=".6"/>
+          <text x="44" y="111" text-anchor="middle" fill="#EAF2FF" font-size="8" font-family="Arial">RISK</text>
+          <text x="18" y="126" fill="#8191AE" font-size="8" font-family="Arial">PREDICT · SEGMENT · ACT</text>
+        </g>
+</svg>
