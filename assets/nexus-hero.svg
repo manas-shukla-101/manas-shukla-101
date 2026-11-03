@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Manas Shukla — Building Intelligent Systems</title>
+  <desc id="desc">A dark futuristic NEXUS development lab banner with a glowing network motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D18"/>
+      <stop offset="0.55" stop-color="#10172A"/>
+      <stop offset="1" stop-color="#17112B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55F6D2"/>
+      <stop offset="1" stop-color="#B99AFF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#55F6D2" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#55F6D2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#91A4C7" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="390" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+  <ellipse cx="930" cy="175" rx="330" ry="260" fill="url(#glow)"/>
+  <path d="M0 320H1200" stroke="#55F6D2" stroke-opacity=".16"/>
+  <path d="M0 28H1200" stroke="#B99AFF" stroke-opacity=".2"/>
+  <g opacity=".8" stroke="url(#accent)" fill="none">
+    <path d="M790 92L930 52L1072 112L1125 232L1008 310L850 274L790 92Z" stroke-opacity=".42" stroke-width="1.5"/>
+    <path d="M790 92L1008 310M930 52L850 274M1072 112L850 274M930 52L1125 232" stroke-opacity=".25"/>
+    <circle cx="790" cy="92" r="5" fill="#55F6D2"/>
+    <circle cx="930" cy="52" r="5" fill="#B99AFF"/>
+    <circle cx="1072" cy="112" r="5" fill="#55F6D2"/>
+    <circle cx="1125" cy="232" r="5" fill="#B99AFF"/>
+    <circle cx="1008" cy="310" r="5" fill="#55F6D2"/>
+    <circle cx="850" cy="274" r="5" fill="#B99AFF"/>
+  </g>
+  <g fill="#55F6D2" opacity=".16" filter="url(#soft)">
+    <circle cx="930" cy="180" r="70"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="76" y="72" fill="#55F6D2" font-size="16" font-weight="700" letter-spacing="4">NEXUS  /  PERSONAL DEVELOPMENT LAB</text>
+    <text x="72" y="176" fill="#F4F7FF" font-size="76" font-weight="800" letter-spacing="-2">MANAS SHUKLA</text>
+    <rect x="76" y="204" width="82" height="4" rx="2" fill="url(#accent)"/>
+    <text x="76" y="252" fill="#E5EAF7" font-size="27" font-weight="600" letter-spacing="2">BUILDING INTELLIGENT SYSTEMS.</text>
+    <text x="76" y="292" fill="#A5B3CC" font-size="17" letter-spacing="1.7">AI BUILDER  ·  DATA SCIENCE  ·  COMPUTER VISION  ·  AUTOMATION</text>
+    <text x="76" y="350" fill="#55F6D2" font-size="13" letter-spacing="3">LEARN  →  BUILD  →  TEST  →  IMPROVE</text>
+    <text x="1118" y="355" fill="#A5B3CC" font-size="12" text-anchor="end" letter-spacing="2">MUMBAI, INDIA</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="388" rx="21" fill="none" stroke="#8DA4C9" stroke-opacity=".22"/>
+</svg>

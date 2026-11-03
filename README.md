@@ -1,149 +1,263 @@
 <div align="center">
 
-<picture>
-  <img src="assets/hero-banner.svg" alt="Manas Shukla - AI & Agentic Systems Architect" width="100%">
-</picture>
+<img src="assets/nexus-hero.svg" alt="Manas Shukla — Building Intelligent Systems" width="100%">
+
+<br>
+
+<a href="https://manas-shukla-portfolio.framer.website"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=55F6D2" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/manas-shukla-006774370"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=55F6D2" alt="LinkedIn"></a>
+<a href="mailto:shuklamanas89282@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=55F6D2" alt="Email"></a>
+<a href="https://github.com/manas-shukla-101?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=55F6D2" alt="Repositories"></a>
 
 </div>
-
 
 ---
 
 <div align="center">
-  <h2>🚀 TERMINAL MISSION CONTROL</h2>
+
+### `NEXUS // PERSONAL DEVELOPMENT LAB`
+
+**I turn ideas into practical AI-powered applications.**
+
+*Data Science · Artificial Intelligence · Computer Vision · Automation*
+
 </div>
 
-```bash
-manas@quantum-node:~$ ./init_session --user visitor
-[SYSTEM READY] Connecting to Manas Shukla's Neural Cluster...
+```text
+┌─ NEXUS / SYSTEM PROFILE ───────────────────────────────────────┐
+│                                                                │
+│  OPERATOR     Manas Shukla                                     │
+│  BASE         Mumbai, India                                    │
+│  CURRENT      B.Sc. Data Science student                       │
+│  FOCUS        AI/ML • LLM applications • Data • Automation     │
+│  APPROACH     Learn → Build → Test → Improve                   │
+│                                                                │
+│  OBJECTIVE    Build useful software, understand the systems    │
+│               behind it, and keep getting better.              │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
 
-❯ BIO:          Autonomous AI Systems Architect & Machine Learning Engineer
-❯ LOCATION:     Mumbai, India 🇮🇳
-❯ SPECIALTY:    Multi-Agent Orchestration, Multimodal Vision-Language, LLM Tool-Use
-❯ PORTFOLIO:    https://manas-shukla-portfolio.framer.website
-❯ LINKEDIN:     https://linkedin.com/in/manas-shukla-006774370
-❯ EMAIL:        shuklamanas89282@gmail.com
-❯ STATUS:       Open for High-Impact Roles & Research Collaborations
+I'm a Data Science student who enjoys building things at the intersection of **AI, software and data**. My projects range from AI-assisted analytics and document intelligence to workflow automation and predictive modelling.
+
+I care about more than getting a demo to work: I like exploring the pipeline behind it, connecting the components, and making the result useful to someone.
+
+---
+
+## `01 / SELECTED BUILDS`
+
+<div align="center">
+
+*Projects that show the kind of problems I like working on.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [01 · OmniRAG-AI](https://github.com/manas-shukla-101/OmniRag-AI)
+
+**Ask questions across documents and source material.**
+
+A Retrieval-Augmented Generation assistant built around document ingestion, hybrid retrieval and reranking.
+
+`FastAPI` `React` `RAG` `BM25` `Vector Search`
+
+<a href="https://omnirag-ai.onrender.com">LIVE DEMO ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### [02 · Clarix-AI](https://github.com/manas-shukla-101/Clarix-AI)
+
+**Turn raw data into interactive visual stories.**
+
+A browser-based data visualization tool for CSV, JSON and Excel files, with AI chart suggestions and dashboard building.
+
+`React` `JavaScript` `DuckDB` `ECharts` `Supabase`
+
+<a href="https://clarix-ai-nine.vercel.app">LIVE DEMO ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [03 · AI Data Analyst Agent](https://github.com/manas-shukla-101/AI-Data-Analyst-Agent)
+
+**Make exploratory data analysis more interactive.**
+
+Automates dataset profiling, visualizations, AI-generated insights and report creation, with an n8n workflow.
+
+`Python` `FastAPI` `Pandas` `Gemini` `n8n`
+
+</td>
+<td width="50%" valign="top">
+
+### [04 · SmartInbox-AI](https://github.com/manas-shukla-101/SmartInbox-AI)
+
+**An intelligent workflow for managing email.**
+
+Classifies and routes Gmail messages, generates smart replies and uses human approval for sensitive actions.
+
+`OpenAI GPT-4o` `n8n` `LangFlow` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [05 · HireSight-AI](https://github.com/manas-shukla-101/HireSight-AI)
+
+**AI-assisted resume and job-description analysis.**
+
+Matches resumes against job descriptions, identifies skill gaps and produces actionable recommendations.
+
+`Python` `NLP` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+### [06 · Customer Churn Prediction](https://github.com/manas-shukla-101/Customer-Churn-Prediction-System)
+
+**Translate customer data into retention signals.**
+
+An end-to-end churn prediction project with risk segmentation, model evaluation and a Streamlit dashboard.
+
+`Python` `XGBoost` `Scikit-learn` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/manas-shukla-101?tab=repositories"><strong>EXPLORE ALL REPOSITORIES →</strong></a>
+
+</div>
+
+---
+
+## `02 / WHAT I WORK WITH`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**AI & MACHINE LEARNING**
+
+- Python
+- Scikit-learn
+- TensorFlow / PyTorch
+- NLP
+- Computer Vision
+- LLM applications
+- RAG concepts
+
+</td>
+<td width="33%" valign="top">
+
+**DATA & ANALYTICS**
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Advanced Excel
+- SQL
+
+</td>
+<td width="33%" valign="top">
+
+**BUILD & AUTOMATE**
+
+- FastAPI
+- Flask
+- React
+- n8n
+- Git & GitHub
+- Docker
+- PostgreSQL
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-0B1220?style=flat-square&logo=python&logoColor=55F6D2">
+<img src="https://img.shields.io/badge/FASTAPI-0B1220?style=flat-square&logo=fastapi&logoColor=55F6D2">
+<img src="https://img.shields.io/badge/REACT-0B1220?style=flat-square&logo=react&logoColor=55F6D2">
+<img src="https://img.shields.io/badge/POWER_BI-0B1220?style=flat-square&logo=powerbi&logoColor=55F6D2">
+<img src="https://img.shields.io/badge/DOCKER-0B1220?style=flat-square&logo=docker&logoColor=55F6D2">
+<img src="https://img.shields.io/badge/N8N-0B1220?style=flat-square&logo=n8n&logoColor=55F6D2">
+<img src="https://img.shields.io/badge/GIT-0B1220?style=flat-square&logo=git&logoColor=55F6D2">
+
+</div>
+
+---
+
+## `03 / CURRENT TRANSMISSION`
+
+```yaml
+now:
+  learning:
+    - strengthening machine learning fundamentals
+    - building practical AI and LLM applications
+    - improving software architecture and deployment skills
+  exploring:
+    - computer vision
+    - intelligent automation
+    - data-driven products
+  open_to:
+    - internships
+    - collaborative projects
+    - learning from the developer community
 ```
 
 ---
 
-<div align="center">
-  <h2>🧠 ELITE PROJECT ARCHITECTURE</h2>
-</div>
+## `04 / GITHUB TELEMETRY`
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="50%" align="center" style="border: none;">
-<a href="https://github.com/manas-shukla-101/HireSight-AI">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-HireSight-AI-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-HireSight-AI-light.svg">
-  <img src="assets/card-HireSight-AI-dark.svg" width="450" alt="HireSight AI">
-</picture>
-</a>
-</td>
-<td width="50%" align="center" style="border: none;">
-<a href="https://github.com/manas-shukla-101/AI-Data-Analyst-Agent">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-AI-Data-Analyst-Agent-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-AI-Data-Analyst-Agent-light.svg">
-  <img src="assets/card-AI-Data-Analyst-Agent-dark.svg" width="450" alt="AI Data Analyst Agent">
-</picture>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" style="border: none;">
+<div align="center">
+
+<img height="170" src="assets/card-stats-dark.svg" alt="GitHub statistics">
+<img height="170" src="assets/radar-langs-dark.svg" alt="Language breakdown">
+
 <br>
-<a href="https://github.com/manas-shukla-101/SmartInbox-AI">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-SmartInbox-AI-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-SmartInbox-AI-light.svg">
-  <img src="assets/card-SmartInbox-AI-dark.svg" width="450" alt="SmartInbox AI">
-</picture>
-</a>
-</td>
-<td width="50%" align="center" style="border: none;">
-<br>
-<a href="https://github.com/manas-shukla-101/Visual-Question-Answering">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-Visual-Question-Answering-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-Visual-Question-Answering-light.svg">
-  <img src="assets/card-Visual-Question-Answering-dark.svg" width="450" alt="Visual Question Answering">
-</picture>
-</a>
-</td>
-</tr>
-</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&theme=transparent&hide_border=true&ring=55F6D2&fire=B99AFF&currStreakLabel=55F6D2&sideLabels=9AA9C3&dates=718096" alt="GitHub contribution streak">
+
+</div>
 
 ---
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="50%" align="center" style="border: none;">
-  <h3>📊 ANALYTICS</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="450" alt="GitHub Stats">
-</picture>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="450" alt="Language Radar">
-</picture>
-</td>
-<td width="50%" align="center" style="border: none;">
-  <h3>⚡ TECH ARSENAL</h3>
-  
-  <br>
-  
-  **🧠 Core AI & Vision**<br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  
-  <br><br>
-  **⚡ Agentic & LLMs**<br>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/LLM_Agents-000000?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/RAG_Systems-FF007F?style=for-the-badge&logo=databricks&logoColor=white">
-  
-  <br><br>
-  **🚀 Backend & Data**<br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-  <br><br>
-  **🛠️ DevOps & Arch**<br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</td>
-</tr>
-</table>
-
----
+## `05 / ACTIVITY STREAM`
 
 <div align="center">
-  <h2>🌍 GLOBAL ACTIVITY</h2>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake-dark.svg" alt="Contribution Snake" width="100%">
+  <img src="https://raw.githubusercontent.com/manas-shukla-101/manas-shukla-101/output/snake-dark.svg" alt="Contribution graph animation" width="100%">
 </picture>
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=manas-shukla-101&style=for-the-badge&color=55F6D2&label=PROFILE+VIEWS" alt="Profile views">
+
+</div>
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manas-shukla-101&color=00f5d4&label=SYSTEM_VISITS&style=for-the-badge">
+
+### `END OF TRANSMISSION`
+
+**Build with curiosity. Ship with purpose. Improve continuously.**
+
+<sub>Thanks for visiting my development lab.</sub>
+
 </div>
