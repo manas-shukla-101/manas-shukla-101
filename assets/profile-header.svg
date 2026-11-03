@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Manas Shukla — AI Builder and Data Science</title>
+<desc id="desc">Minimal dark editorial banner with elegant typography and a restrained violet accent.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101116"/><stop offset="1" stop-color="#191923"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#7C6CF0"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="#B9B5D0" opacity=".13"/></pattern>
+<radialGradient id="orb"><stop stop-color="#8B78EF" stop-opacity=".17"/><stop offset="1" stop-color="#8B78EF" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/><rect width="1200" height="360" rx="18" fill="url(#dots)"/>
+<ellipse cx="1030" cy="120" rx="300" ry="240" fill="url(#orb)"/>
+<path d="M64 58H1136M64 302H1136" stroke="#FFFFFF" stroke-opacity=".12"/>
+<rect x="64" y="57" width="42" height="3" rx="1.5" fill="url(#accent)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="66" y="112" fill="#B9A9FF" font-size="13" font-weight="700" letter-spacing="3.6">AI BUILDER  /  DATA SCIENCE</text>
+<text x="60" y="197" fill="#F4F2FA" font-size="76" font-weight="750" letter-spacing="-3">Manas Shukla</text>
+<rect x="66" y="222" width="74" height="4" rx="2" fill="url(#accent)"/>
+<text x="66" y="263" fill="#C7C4D2" font-size="22">Building practical AI-powered applications.</text>
+<text x="66" y="333" fill="#92909F" font-size="12" letter-spacing="2.1">MACHINE LEARNING  ·  DATA  ·  AUTOMATION  ·  SOFTWARE</text>
+<text x="1135" y="333" fill="#92909F" font-size="12" text-anchor="end" letter-spacing="1.5">MUMBAI, INDIA</text></g>
+<g transform="translate(1010 180)" fill="none" stroke="#A78BFA" stroke-opacity=".72">
+<circle r="74" stroke-width="1.2" stroke-dasharray="2 9"/><circle r="53" stroke-opacity=".48"/><circle r="30" stroke-opacity=".32"/>
+<path d="M-86 0H86M0 -86V86" stroke-opacity=".22"/><circle r="5" fill="#B9A9FF" stroke="none"/><circle cy="-74" r="3.5" fill="#B9A9FF" stroke="none"/><circle cx="53" r="3.5" fill="#B9A9FF" stroke="none"/>
+</g><rect x=".5" y=".5" width="1199" height="359" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".13"/></svg>
