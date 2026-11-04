@@ -160,7 +160,7 @@ me.say_hi()
 ![Followers](https://img.shields.io/github/followers/manas-shukla-101?style=for-the-badge&logo=github&label=Followers&color=7C3AED&labelColor=1a1a2e)
 ![Stars](https://img.shields.io/github/stars/manas-shukla-101?style=for-the-badge&logo=github&label=Total%20Stars&color=7C3AED&labelColor=1a1a2e)
 ![Repos](https://img.shields.io/badge/Public%20Repos-20-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)
-![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1a2e)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data%20Science-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1a2e)
 ![Open To](https://img.shields.io/badge/Open%20To-Internships-22c55e?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a2e)
 
 </div>
