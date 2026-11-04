@@ -9,7 +9,7 @@
 <br>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+AI+that+actually+works;RAG+%7C+Agents+%7C+Multimodal+AI;Turning+raw+data+into+real+insights;B.Sc+Data+Science+ %40+Mumbai;Open+to+Internships+%26+Collaborations" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+AI+that+actually+works;RAG+%7C+Agents+%7C+Multimodal+AI;Turning+raw+data+into+real+insights;B.Sc+Data+Science+%40+Mumbai;Open+to+Internships+%26+Collaborations" alt="Typing SVG">
 
 <br>
 
