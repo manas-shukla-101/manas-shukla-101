@@ -132,9 +132,11 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Streak + Profile Details side by side — both proven reliable -->
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&hide_border=true&background=0D0D12&stroke=A78BFA&ring=7C3AED&fire=FF6E6E&currStreakLabel=A78BFA&sideLabels=C8C6D2&dates=777788&currStreakNum=ffffff" alt="Streak Stats">
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manas-shukla-101&theme=midnight_purple" alt="Stats">
+
+<!-- GitHub Streak + Stats -->
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-shukla-101&hide_border=true&background=0D0D12&stroke=A78BFA&ring=7C3AED&fire=FF6E6E&currStreakLabel=A78BFA&sideLabels=C8C6D2&dates=777788&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak Stats">
+
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manas-shukla-101&theme=midnight_purple&text_color=FFFFFF&title_color=A78BFA&icon_color=A78BFA&bg_color=0D0D12" alt="Stats">
 
 <br><br>
 
