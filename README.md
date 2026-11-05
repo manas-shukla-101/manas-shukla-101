@@ -55,7 +55,7 @@ class ManasShukla:
         self.degree      = "B.Sc Data Science"
         self.focus       = ["Applied AI", "RAG Systems",
                             "Intelligent Automation"]
-        self.tools       = ["Python", "FastAPI", "React",
+        self.tools       = ["Python", "FastAPI", "PowerBI",
                             "n8n", "LangChain"]
         self.llms        = ["GPT-4o", "Gemini", "Claude"]
         self.currently   = "Building AI apps that solve "
