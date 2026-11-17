@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D12,50:3B1F6E,100:7C3AED&height=280&section=header&text=Manas%20Shukla&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Builder%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=22&descColor=C4B5FD" width="100%">
 
 <div align="center">
-
+ 
 <!-- CIRCULAR PROFILE PHOTO -->
 <img src="assets/manas-circle.svg" width="160" alt="Manas Shukla">
 
